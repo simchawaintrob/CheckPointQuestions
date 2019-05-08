@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\CheckPointQuestions1\CheckPointQuestions\bin\Debug\CheckPointQuestions.exe.config
+C:\Users\user\Source\Repos\CheckPointQuestions1\CheckPointQuestions\bin\Debug\CheckPointQuestions.exe
+C:\Users\user\Source\Repos\CheckPointQuestions1\CheckPointQuestions\bin\Debug\CheckPointQuestions.pdb
+C:\Users\user\Source\Repos\CheckPointQuestions1\CheckPointQuestions\obj\Debug\CheckPointQuestions.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\CheckPointQuestions1\CheckPointQuestions\obj\Debug\CheckPointQuestions.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\CheckPointQuestions1\CheckPointQuestions\obj\Debug\CheckPointQuestions.exe
+C:\Users\user\Source\Repos\CheckPointQuestions1\CheckPointQuestions\obj\Debug\CheckPointQuestions.pdb
